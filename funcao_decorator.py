@@ -2,6 +2,8 @@
 #encoding: utf-8
 from datetime import datetime
 from funcoes import format_file
+print(dog1.__doc__)
+
 while True:
     nome_arq = input('Digite o nome do arquivo ou "s" para Sair :')
     if nome_arq == 's':
