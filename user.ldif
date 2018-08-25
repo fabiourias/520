@@ -1,0 +1,16 @@
+######################################################
+#Daniel Prata - Especialista em Python
+dn: uid=daniel.matraca,dc=dexter,dc=com,dc=br
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+uid: daniel.prata
+sn: Daniel
+cn: Prata
+mail: daniel.prata@4linux.com.br
+mobile: 99999-9999
+telephoneNumber: 2222-2222
+description: "Especialista em Desenvolvimento Python"
+userPassword:4linux
+#######################################################

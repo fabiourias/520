@@ -1,0 +1,86 @@
+[ 25/08/2018 13: 48: 47] [ DEBUG] root
+          [ <module>][logs.py, 12] mensagem de debug
+[ 25/08/2018 13: 48: 47] [ INFO] root
+          [ <module>][logs.py, 13] mensagem de info
+[ 25/08/2018 13: 48: 47] [ WARNING] root
+          [ <module>][logs.py, 14] mensagem de Warning
+[ 25/08/2018 13: 48: 47] [ ERROR] root
+          [ <module>][logs.py, 15] mensagem de error
+[ 25/08/2018 13: 48: 47] [ CRITICAL] root
+          [ <module>][logs.py, 16] mensagem de critical
+[ 25/08/2018 14: 05: 09] [ DEBUG] root
+          [ <module>][logs.py, 12] mensagem de debug
+[ 25/08/2018 14: 05: 09] [ INFO] root
+          [ <module>][logs.py, 13] mensagem de info
+[ 25/08/2018 14: 05: 09] [ WARNING] root
+          [ <module>][logs.py, 14] mensagem de Warning
+[ 25/08/2018 14: 05: 09] [ ERROR] root
+          [ <module>][logs.py, 15] mensagem de error
+[ 25/08/2018 14: 05: 09] [ CRITICAL] root
+          [ <module>][logs.py, 16] mensagem de critical
+[ 25/08/2018 14: 05: 35] [ DEBUG] root
+          [ <module>][logs.py, 12] mensagem de debug
+[ 25/08/2018 14: 05: 35] [ INFO] root
+          [ <module>][logs.py, 13] mensagem de info
+[ 25/08/2018 14: 05: 35] [ WARNING] root
+          [ <module>][logs.py, 14] mensagem de Warning
+[ 25/08/2018 14: 05: 35] [ ERROR] root
+          [ <module>][logs.py, 15] mensagem de error
+[ 25/08/2018 14: 05: 35] [ CRITICAL] root
+          [ <module>][logs.py, 16] mensagem de critical
+[ 25/08/2018 14: 07: 11] [ DEBUG] root
+          [ <module>][logs.py, 12] mensagem de debug
+[ 25/08/2018 14: 07: 11] [ INFO] root
+          [ <module>][logs.py, 13] mensagem de info
+[ 25/08/2018 14: 07: 11] [ WARNING] root
+          [ <module>][logs.py, 14] mensagem de Warning
+[ 25/08/2018 14: 07: 11] [ ERROR] root
+          [ <module>][logs.py, 15] mensagem de error
+[ 25/08/2018 14: 07: 11] [ CRITICAL] root
+          [ <module>][logs.py, 16] mensagem de critical
+[ 25/08/2018 14: 07: 35] [ DEBUG] root
+          [ <module>][logs.py, 12] mensagem de debug
+[ 25/08/2018 14: 07: 35] [ INFO] root
+          [ <module>][logs.py, 13] mensagem de info
+[ 25/08/2018 14: 07: 35] [ WARNING] root
+          [ <module>][logs.py, 14] mensagem de Warning
+[ 25/08/2018 14: 07: 35] [ ERROR] root
+          [ <module>][logs.py, 15] mensagem de error
+[ 25/08/2018 14: 07: 35] [ CRITICAL] root
+          [ <module>][logs.py, 16] mensagem de critical
+[ 25/08/2018 14: 08: 09] [ DEBUG] root
+          [ <module>][logs.py, 12] mensagem de debug
+[ 25/08/2018 14: 08: 09] [ INFO] root
+          [ <module>][logs.py, 13] mensagem de info
+[ 25/08/2018 14: 08: 09] [ WARNING] root
+          [ <module>][logs.py, 14] mensagem de Warning
+[ 25/08/2018 14: 08: 09] [ ERROR] root
+          [ <module>][logs.py, 15] mensagem de error
+[ 25/08/2018 14: 08: 09] [ CRITICAL] root
+          [ <module>][logs.py, 16] mensagem de critical
+[ 25/08/2018 14: 08: 32] [ DEBUG] root
+          [ <module>][logs.py, 12] mensagem de debug
+[ 25/08/2018 14: 08: 32] [ INFO] root
+          [ <module>][logs.py, 13] mensagem de info
+[ 25/08/2018 14: 08: 32] [ WARNING] root
+          [ <module>][logs.py, 14] mensagem de Warning
+[ 25/08/2018 14: 08: 32] [ ERROR] root
+          [ <module>][logs.py, 15] mensagem de error
+[ 25/08/2018 14: 08: 32] [ CRITICAL] root
+          [ <module>][logs.py, 16] mensagem de critical
+[ 25/08/2018 14: 08: 58] [ DEBUG] root
+          [ <module>][logs.py, 12] mensagem de debug
+[ 25/08/2018 14: 08: 58] [ INFO] root
+          [ <module>][logs.py, 13] mensagem de info
+[ 25/08/2018 14: 08: 58] [ WARNING] root
+          [ <module>][logs.py, 14] mensagem de Warning
+[ 25/08/2018 14: 08: 58] [ ERROR] root
+          [ <module>][logs.py, 15] mensagem de error
+[ 25/08/2018 14: 08: 58] [ CRITICAL] root
+          [ <module>][logs.py, 16] mensagem de critical
+[ 25/08/2018 14: 08: 58] [ MEULOG] root
+          [ <module>][logs.py, 27] Messagem de Log Custom
+[ 25/08/2018 14: 09: 56] [ MEULOG] root
+          [ <module>][logs.py, 27] Messagem de Log Custom
+[ 25/08/2018 14: 12: 36] [ MEULOG] root
+          [ <module>][logs.py, 27] Messagem de Log Custom

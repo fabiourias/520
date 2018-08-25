@@ -1,0 +1,54 @@
+# apt install curl openssh-server ca-certificates postfix
+#curl -sS https://packages.gitlab.com/install/repositories/gitlab/gitlab-ce/.deb.sh | bash
+# apt install gitlab-ce
+
+# Reconfigure Git to start
+gitlab-ctl reconfigure
+
+# cosultar os atributos
+git config user.name
+git config.email
+git remote show
+git checkout + hash
+
+
+APi
+access_token
+XsCg_yhMGbfRcGFpytA8
+
+feed token
+tvfyxCc_4XbWK_ovi22E
+     
+
+Command line instructions
+Git global setup
+
+git config --global user.name "Administrator"
+git config --global user.email "admin@example.com"
+
+Create a new repository
+
+git clone http://gitlab.example.com/root/python-Dash.git
+cd python-Dash
+touch README.md
+git add README.md
+git commit -m "add README"
+git push -u origin master
+
+Existing folder
+
+cd existing_folder
+git init
+git remote add origin http://gitlab.example.com/root/python-Dash.git
+git add .
+git commit -m "Initial commit"
+git push -u origin master
+
+Existing Git repository
+
+cd existing_repo
+git remote rename origin old-origin
+git remote add origin http://gitlab.example.com/root/python-Dash.git
+git push -u origin --all
+git push -u origin --tags
+
