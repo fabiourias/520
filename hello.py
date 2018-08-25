@@ -11,3 +11,6 @@ nome = input("Digite seu nome:  ")
 print (mensagem, nome.upper())
 print (type(mensagem))
 
+
+
+

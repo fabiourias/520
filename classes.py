@@ -71,3 +71,6 @@ class Carro_eletrico(Carro):
     def __init__(self,ano,modelo,marca):
         super().__init__(ano,modelo,marca)
         self.combustivel ='energia'
+
+
+        

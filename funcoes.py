@@ -1,6 +1,8 @@
 #!/usr/bin/python3
 #encoding: utf-8
 
+from 
+
 def boas_vindas(nome='Daniel', idade=24):
     nome = input('Digite o seu nome:')
     idade = int(input('Digite sua idade:'))
@@ -40,7 +42,6 @@ def gravar_log(log):
     with open('python.log', 'a') as arq:
         arq.write(log)
 
-
 def soma(x ,y):
     return (x + y)
 
@@ -57,7 +58,7 @@ def format_file(nome, modo, conteudo=None):
             with open(nome, modo) as arquivo:
                 return arquivo.readlines()
         except Exception as e:
-            result = 'Falha ao ler o arquivo informado: {}'.format(e)
+            result = 'Falha ao ler o arquivo informado: {} [error] - [{}]'.format(e)
             gravar_log(result)
             return result
     elif modo == 'a':

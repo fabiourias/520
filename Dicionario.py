@@ -6,3 +6,7 @@ print (nomes['idade'])
 print (nomes.keys()
 
 
+
+
+
+

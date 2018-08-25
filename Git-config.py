@@ -19,5 +19,4 @@ git commit "string" (change description)
 Forth ( push the files to Git)
 git push origin master
 user and password
-
 .........
