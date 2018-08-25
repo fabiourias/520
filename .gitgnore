@@ -1,4 +1,5 @@
+env
 venv
 Sugestoes
 __pycache__
-.vscode
+.vscodegit
